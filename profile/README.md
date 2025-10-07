@@ -1,7 +1,10 @@
-I publish OSS at Bold Minds,
+Hi, I’m Claire — PM + SWE for developer platforms & tools.
 
-[boldminds/ex](https://github.com/bold-minds/ex)
+I build products that reduce cognitive load for engineers.
 
-[boldminds/id](https://github.com/bold-minds/id)
+[OSS @ Bold Minds](https://github.com/bold-minds): Traverzer (graph-backed schema mgmt) and Platform Velocity tools.
 
-[boldminds/oss](https://github.com/bold-minds/oss)
+• Platform/DevEx • Roadmaps & KPI trees • CI/CD • Observability
+- [boldminds/ex](https://github.com/bold-minds/ex)
+- [boldminds/id](https://github.com/bold-minds/id)
+- [boldminds/oss](https://github.com/bold-minds/oss)
